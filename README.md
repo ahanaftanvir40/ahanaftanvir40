@@ -43,9 +43,6 @@ Greetings, fellow strugglers of the digital abyss! I am Ahanaf Tanvir, a relentl
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahanaftanvir40&repo=CSE370-Project&title_color=a855f7&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en" />
     </a>
     
-    <a href="https://github.com/ahanaftanvir40/Digital-Food-Menu" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&title_color=a855f7&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en" />
-    </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
