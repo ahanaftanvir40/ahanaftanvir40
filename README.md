@@ -9,7 +9,7 @@ Greetings, fellow strugglers of the digital abyss! I am Ahanaf Tanvir, a relentl
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [Ahanaf's Portfolio](http://ahanaftanvir40.github.io/ahanaf_tanvir/)
 * ✉️  You can contact me at [ahanaf.tanvir40@gmail.com](mailto:ahanaf.tanvir40@gmail.com)
-* 🚀  I'm currently working on [Django Projects](http://github.com/ahanaftanvir40/Django-from-scratch)
+* 🚀  I'm currently working on [Django Projects](https://github.com/ahanaftanvir40/Ki-Key-ECommerce)
 * 🧠  I'm learning Django, React, JS
 * 🤝  I'm open to collaborating on any php or django projects
 * ⚡  I am batman
