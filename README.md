@@ -11,7 +11,7 @@ Greetings, fellow strugglers of the digital abyss! I am Ahanaf Tanvir, a relentl
 * ✉️  You can contact me at [ahanaf.tanvir40@gmail.com](mailto:ahanaf.tanvir40@gmail.com)
 * 🚀  I'm currently working on [React Projects](https://github.com/ahanaftanvir40/Cinephile)
 * 🧠  I'm learning Django, React
-* 🤝  I'm open to collaborating on any php or django projects
+* 🤝  I'm open to collaborating on any php and django or react projects
 * ⚡  I am batman
 
 ### Skills
