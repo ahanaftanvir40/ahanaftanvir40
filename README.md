@@ -46,9 +46,7 @@ Greetings, fellow strugglers of the digital abyss! I am Ahanaf Tanvir, a relentl
 <br/>
 <div>
   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 </div>
-
 
 
 ### Support Me
