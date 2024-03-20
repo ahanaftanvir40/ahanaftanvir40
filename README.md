@@ -36,7 +36,7 @@ Greetings, fellow strugglers of the digital abyss! I am Ahanaf Tanvir, a relentl
 
 <a href="https://github.com/ahanaftanvir40" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahanaftanvir40&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+###Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/ahanaftanvir40/CSE370-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahanaftanvir40&repo=CSE370-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ahanaftanvir40/Digital-Food-Menu" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahanaftanvir40&repo=Digital-Food-Menu&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
