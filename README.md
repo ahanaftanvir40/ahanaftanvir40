@@ -7,7 +7,7 @@ Full Stack Web Developer
 Greetings, fellow strugglers of the digital abyss! I am Ahanaf Tanvir, a relentless warrior in the web development realm, wielding lines of code as I once wielded the mighty Dragon Slayer. My journey is a saga of conquering digital demons and forging a path through the chaos of the online battlefield.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [https://ahanaftanvir.netlify.app/)
+* 🖥️  See my portfolio at https://ahanaftanvir.netlify.app/
 * ✉️  You can contact me at [ahanaf.tanvir40@gmail.com](mailto:ahanaf.tanvir40@gmail.com)
 * 🚀  I'm currently working on [React Projects](https://github.com/ahanaftanvir40/Cinephile)
 * 🧠  I'm learning Django, React
