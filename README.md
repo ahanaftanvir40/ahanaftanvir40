@@ -10,7 +10,7 @@ Greetings, fellow strugglers of the digital abyss! I am Ahanaf Tanvir, a relentl
 * 🖥️  See my portfolio at https://ahanaftanvir.netlify.app/
 * ✉️  You can contact me at [ahanaf.tanvir40@gmail.com](mailto:ahanaf.tanvir40@gmail.com)
 * 🚀  I'm currently working on [React Projects](https://github.com/ahanaftanvir40/Cinephile)
-* 🤝  I'm open to collaborating on any MERN and NextJs
+* 🤝  I'm open to collaborating on any MERN and NextJs Project
 * ⚡  I am batman
 
 ### Skills
