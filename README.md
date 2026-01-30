@@ -42,8 +42,6 @@ Focused on scalable system design, clean APIs, and maintainable architectures fr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="34" />
 
 <!-- Cloud & Infra -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="34" />
-<img src="https://www.vectorlogo.zone/logos/pulumi/pulumi-icon.svg" height="34" />
 
 <!-- Databases & Caching -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" />
