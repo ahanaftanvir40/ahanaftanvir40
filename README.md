@@ -4,7 +4,7 @@
 
 # Ahanaf Tanvir
 
-**Full-Stack Engineer | Serverless & Cloud Architecture**
+**Full-Stack Engineer · Serverless & Cloud Architecture**
 
 [Portfolio](https://ahanaf-tanvir.netlify.app) ·
 [LinkedIn](https://linkedin.com/in/ahanaf-tanvir) ·
@@ -14,133 +14,90 @@
 
 ---
 
-## About Me
+## About
 
-I am a Full-Stack Engineer with experience building **production-grade web applications** using modern JavaScript frameworks and **serverless cloud infrastructure**.  
-My work focuses on designing scalable systems, clean APIs, and maintainable architectures that can move from concept to production efficiently.
-
-I enjoy working across the stack — from UI and animation to backend systems, cloud infrastructure, and developer tooling.
+Full-Stack Engineer focused on building **production-grade web applications** with modern frameworks and **serverless AWS infrastructure**.  
+Experienced in system design, cloud architecture, API development, and clean, maintainable code.
 
 ---
 
 ## Tech Stack
 
 ### Languages
-- JavaScript
-- TypeScript
-- Python
-- SQL
-- HTML5
-- CSS3
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
+</p>
 
 ### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- Shadcn UI
-- GSAP
-- Framer Motion
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" />
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- Hono
-- Prisma
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="32" />
+</p>
 
 ### Cloud & Infrastructure
-- AWS Lambda
-- AWS API Gateway
-- AWS S3
-- AWS CloudFront
-- AWS SES
-- Serverless Architecture
-- Pulumi (Infrastructure as Code)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" />
+<img src="https://www.vectorlogo.zone/logos/pulumi/pulumi-icon.svg" height="32" />
+</p>
 
 ### Databases & Caching
-- MongoDB
-- PostgreSQL
-- MySQL
-- DynamoDB
-- Redis
-
-### APIs & Tooling
-- REST
-- GraphQL
-- WebSockets
-- SDK Design
-- Stripe
-- LiveKit
-- Git
-- Postman
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" height="32" />
+</p>
 
 ---
 
-## Professional Experience
+## Experience
 
-### MYBE Digital — Full-Stack Engineer  
-**Remote | July 2025 – Present**
+**MYBE Digital — Full-Stack Engineer**  
+Remote · July 2025 – Present  
 
-- Leading full-stack development of production applications using the MERN stack in a serverless AWS environment.
-- Designed and implemented scalable cloud infrastructure using Pulumi (Infrastructure as Code).
-- Conducted product research and led the launch of **Contensa.ai**, an AI-powered CMS platform.
-- Architected backend services with AWS Lambda, API Gateway, and Hono, using DynamoDB as the primary datastore.
-- Built secure SDKs supporting REST and GraphQL with API key management via Redis.
-- Implemented Stripe-based billing, role-based access control, and scalable media delivery using S3 and CloudFront.
-
----
-
-### Tech Adornments — Full-Stack Web Developer  
-**Remote | April 2024 – July 2025**
-
-- Developed and maintained production web applications using Laravel and the MERN stack.
-- Built and consumed RESTful APIs for internal systems and third-party integrations.
-- Created responsive, accessible user interfaces using React.js and Tailwind CSS.
-- Implemented smooth UI animations using GSAP to enhance user experience.
-- Collaborated across frontend, backend, and API layers to deliver complete features.
+- Leading full-stack development using MERN + AWS Serverless
+- Designing cloud infrastructure with Pulumi (IaC)
+- Architecting backend services using AWS Lambda, API Gateway, Hono
+- Building secure SDKs (REST & GraphQL) and Stripe-based billing systems
 
 ---
 
 ## Selected Projects
 
-### Contensa.ai — AI-Powered CMS  
-**Next.js · Hono · AWS · Pulumi**
+**Contensa.ai** — AI-powered CMS  
+Next.js · Hono · AWS · Pulumi  
 
-- Designed and built an AI-powered CMS platform from concept to production.
-- Architected a monorepo with a Next.js frontend and Hono-based serverless backend.
-- Implemented Infrastructure as Code using Pulumi to provision AWS Lambda, API Gateway, DynamoDB, S3, and CloudFront.
-- Developed secure REST and GraphQL SDKs with Redis-based API key management.
-- Integrated Stripe billing, role-based access control, and CDN-based media delivery.
-- Led product research, competitive analysis, and overall system architecture.
+**Project Echo** — Real-time communication platform  
+Next.js · Prisma · Clerk · Socket.IO · LiveKit  
 
----
-
-### Lipy Group — Corporate Website  
-**Next.js · AWS · SEO**
-
-- Built the corporate website from the ground up using Next.js Page Router.
-- Implemented internationalization (i18n) for multilingual support.
-- Applied SEO best practices, server-side rendering, and performance optimizations.
-- Integrated AWS SES for transactional and contact-form email delivery.
-- Reviewed and improved the existing GitHub codebase for maintainability and scalability.
+**Lipy Group** — Corporate website  
+Next.js · AWS · SEO  
 
 ---
 
-### Project Echo — Real-Time Communication Platform  
-**Next.js · Prisma · Clerk · Socket.IO · LiveKit**
+## Education
 
-- Built a real-time communication platform with text, audio, and video channels.
-- Implemented low-latency messaging using Socket.IO.
-- Integrated video conferencing via LiveKit.
-- Added authentication, role-based access control, server invites, and file uploads.
+**BRAC University**  
+Bachelor of Computer Science  
+Expected Graduation: January 2026  
 
 ---
-
-## GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahanaftanvir40&show_icons=true&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahanaftanvir40&hide_border=true" />
 
 </div>
