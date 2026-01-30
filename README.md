@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2h5eWh3bWZyNGY2Y2V0aTNqM2NzbWlqZzFhNnI2M2N3Z2N5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="220" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R1ZzY3c3R2c2xkZWx5cGRiM3E1bHZrZzZxZWZ6b2I5b3R2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
 
 # Ahanaf Tanvir
 
@@ -86,14 +86,17 @@ Focused on scalable system design, clean APIs, and maintainable architectures fr
 
 ## Selected Projects
 
-**Contensa.ai** — AI-powered CMS  
-Next.js · Hono · AWS · Pulumi  
+### Contensa.ai — AI-powered CMS  
+**Next.js · Hono · AWS · Pulumi**  
+Live: https://contensa.ai
 
-**Project Echo** — Real-time communication platform  
-Next.js · Prisma · Clerk · Socket.IO · LiveKit  
+### Project Echo — Real-time Communication Platform  
+**Next.js · Prisma · Clerk · Socket.IO · LiveKit**  
+Live: https://project-echo-production.up.railway.app
 
-**Lipy Group** — Corporate website  
-Next.js · AWS · SEO  
+### Lipy Group — Corporate Website  
+**Next.js · AWS · SEO**  
+Live: https://lipygroup.com
 
 ---
 
