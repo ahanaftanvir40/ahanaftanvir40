@@ -82,7 +82,7 @@ Focused on scalable system design, clean APIs, and maintainable architectures fr
 
 ---
 
-## Selected Projects
+## Recent Projects
 
 ### Contensa.ai — AI-powered CMS  
 **Next.js · Hono · AWS · Pulumi**  
@@ -100,6 +100,6 @@ Live: https://lipygroup.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahanaftanvir40&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahanaftanvir40&show_icons=true&hide_border=true&theme=transparent" />
 
 </div>
