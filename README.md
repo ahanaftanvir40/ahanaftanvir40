@@ -96,10 +96,3 @@ Live: https://project-echo-production.up.railway.app
 **Next.js · AWS · SEO**  
 Live: https://lipygroup.com
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahanaftanvir40&show_icons=true&hide_border=true&theme=transparent" />
-
-</div>
