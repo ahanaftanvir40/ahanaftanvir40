@@ -96,3 +96,12 @@ Live: https://project-echo-production.up.railway.app
 **Next.js · AWS · SEO**  
 Live: https://lipygroup.com
 
+---
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ahanaftanvir40" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me a Coffee" />
+  </a>
+</div>
+
+
