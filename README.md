@@ -1,57 +1,146 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahanaf Tanvir
-=====================================================================================================================================
+<div align="center">
 
-Full Stack Web Developer
-------------------------
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2h5eWh3bWZyNGY2Y2V0aTNqM2NzbWlqZzFhNnI2M2N3Z2N5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="220" />
 
-Greetings, fellow strugglers of the digital abyss! I am Ahanaf Tanvir, a relentless warrior in the web development realm, wielding lines of code as I once wielded the mighty Dragon Slayer. My journey is a saga of conquering digital demons and forging a path through the chaos of the online battlefield.
+# Ahanaf Tanvir
 
-* 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at https://ahanaftanvir.netlify.app/
-* ✉️  You can contact me at [ahanaf.tanvir40@gmail.com](mailto:ahanaf.tanvir40@gmail.com)
-* 🚀  I'm currently working on [React Projects](https://github.com/ahanaftanvir40/Cinephile)
-* 🤝  I'm open to collaborating on any MERN and NextJs Project
-* ⚡  I am batman
+**Full-Stack Engineer | Serverless & Cloud Architecture**
 
-### Skills
+[Portfolio](https://ahanaf-tanvir.netlify.app) ·
+[LinkedIn](https://linkedin.com/in/ahanaf-tanvir) ·
+[GitHub](https://github.com/ahanaftanvir40)
 
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/ahanaf.tanvir/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ahanaftanvir40" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ahanaftanvir/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ahanaf-tanvir-980a06264/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@ahanaftanvir9496" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ahanaftanvir40"><img src="https://github-readme-stats.vercel.app/api?username=ahanaftanvir40&show_icons=true&hide=&title_color=a855f7&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&show_icons=true" alt="ahanaftanvir40's GitHub stats" /></a>
-
-<a href="http://www.github.com/ahanaftanvir40"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahanaftanvir40&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/ahanaftanvir40" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahanaftanvir40&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-###  Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/ahanaftanvir40/CSE370-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahanaftanvir40&repo=CSE370-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ahanaftanvir40/Digital-Food-Menu" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahanaftanvir40&repo=Digital-Food-Menu&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/ahanaftanvir40/Ki-Key-ECommerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahanaftanvir40&repo=Ki-Key-ECommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ahanaftanvir40/Cinephile" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahanaftanvir40&repo=Cinephile&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br/>
-<div>
-  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 </div>
 
+---
 
-### Support Me
+## About Me
 
-<ul style="list-style-type: none; margin: 0;">
+I am a Full-Stack Engineer with experience building **production-grade web applications** using modern JavaScript frameworks and **serverless cloud infrastructure**.  
+My work focuses on designing scalable systems, clean APIs, and maintainable architectures that can move from concept to production efficiently.
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ahanaftanvir"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+I enjoy working across the stack — from UI and animation to backend systems, cloud infrastructure, and developer tooling.
 
-</ul>
+---
+
+## Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- SQL
+- HTML5
+- CSS3
+
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- Shadcn UI
+- GSAP
+- Framer Motion
+
+### Backend
+- Node.js
+- Express.js
+- Hono
+- Prisma
+
+### Cloud & Infrastructure
+- AWS Lambda
+- AWS API Gateway
+- AWS S3
+- AWS CloudFront
+- AWS SES
+- Serverless Architecture
+- Pulumi (Infrastructure as Code)
+
+### Databases & Caching
+- MongoDB
+- PostgreSQL
+- MySQL
+- DynamoDB
+- Redis
+
+### APIs & Tooling
+- REST
+- GraphQL
+- WebSockets
+- SDK Design
+- Stripe
+- LiveKit
+- Git
+- Postman
+
+---
+
+## Professional Experience
+
+### MYBE Digital — Full-Stack Engineer  
+**Remote | July 2025 – Present**
+
+- Leading full-stack development of production applications using the MERN stack in a serverless AWS environment.
+- Designed and implemented scalable cloud infrastructure using Pulumi (Infrastructure as Code).
+- Conducted product research and led the launch of **Contensa.ai**, an AI-powered CMS platform.
+- Architected backend services with AWS Lambda, API Gateway, and Hono, using DynamoDB as the primary datastore.
+- Built secure SDKs supporting REST and GraphQL with API key management via Redis.
+- Implemented Stripe-based billing, role-based access control, and scalable media delivery using S3 and CloudFront.
+
+---
+
+### Tech Adornments — Full-Stack Web Developer  
+**Remote | April 2024 – July 2025**
+
+- Developed and maintained production web applications using Laravel and the MERN stack.
+- Built and consumed RESTful APIs for internal systems and third-party integrations.
+- Created responsive, accessible user interfaces using React.js and Tailwind CSS.
+- Implemented smooth UI animations using GSAP to enhance user experience.
+- Collaborated across frontend, backend, and API layers to deliver complete features.
+
+---
+
+## Selected Projects
+
+### Contensa.ai — AI-Powered CMS  
+**Next.js · Hono · AWS · Pulumi**
+
+- Designed and built an AI-powered CMS platform from concept to production.
+- Architected a monorepo with a Next.js frontend and Hono-based serverless backend.
+- Implemented Infrastructure as Code using Pulumi to provision AWS Lambda, API Gateway, DynamoDB, S3, and CloudFront.
+- Developed secure REST and GraphQL SDKs with Redis-based API key management.
+- Integrated Stripe billing, role-based access control, and CDN-based media delivery.
+- Led product research, competitive analysis, and overall system architecture.
+
+---
+
+### Lipy Group — Corporate Website  
+**Next.js · AWS · SEO**
+
+- Built the corporate website from the ground up using Next.js Page Router.
+- Implemented internationalization (i18n) for multilingual support.
+- Applied SEO best practices, server-side rendering, and performance optimizations.
+- Integrated AWS SES for transactional and contact-form email delivery.
+- Reviewed and improved the existing GitHub codebase for maintainability and scalability.
+
+---
+
+### Project Echo — Real-Time Communication Platform  
+**Next.js · Prisma · Clerk · Socket.IO · LiveKit**
+
+- Built a real-time communication platform with text, audio, and video channels.
+- Implemented low-latency messaging using Socket.IO.
+- Integrated video conferencing via LiveKit.
+- Added authentication, role-based access control, server invites, and file uploads.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahanaftanvir40&show_icons=true&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahanaftanvir40&hide_border=true" />
+
+</div>
